@@ -36,7 +36,19 @@ struct Bank{
         cout << "-------------------------" << endl;
         cout << " | Open New Account (1) |" << endl;
         cout << " | Deposit Money    (2) |" << endl;
+        cout << " | WithDraw Money   (3) |" << endl;
+        cout << " | Display Account  (4) |" << endl;
+        cout << " | Exit             (5) |" << endl;
+        cout << "-------------------------" << endl;
     }
 
+    void openAccount(){
+
+        cout << "/**************************\ " << endl;
+        cout << "/*    Creating Acoount    *\ " << endl;
+        cout << "/**************************\ " << endl << endl;
+
+
+    };
 };
 
