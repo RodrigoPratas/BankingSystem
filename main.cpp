@@ -48,6 +48,8 @@ struct Bank{
         cout << "/*    Creating Acoount    *\ " << endl;
         cout << "/**************************\ " << endl << endl;
 
+    cout << "   Enter Your First Name : " << endl;
+    cin >> user.firstName;
 
     };
 };
